@@ -1,0 +1,1 @@
+# установил $ pip install -U psycopg2-binary
